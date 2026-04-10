@@ -1,0 +1,51 @@
+body {
+  font-family: fantasy;
+  background-color: #b9d1f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor {
+background: rgb(255, 255, 255);
+padding: 50px;
+margin: 100px;
+width: 500px;
+border-radius: 15px;
+text-align: center;
+box-shadow: 10px 15px 25px rgba(0, 0, 0, 0.644);
+text-align: center;
+font-size: 30px;
+}
+
+input, select {
+  width: 100%;
+  margin: 10px 0;
+  padding: 12px;
+  font-size: 20px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  outline: none;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #007BFF;
+  padding: 15px;
+  border-radius: 6px;
+  font-size: 20px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#resultado {
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 20px;
+}
