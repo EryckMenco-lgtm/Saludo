@@ -1,6 +1,5 @@
 const nombre = document.getElementById("nombre");
 const edad = document.getElementById("edad");
-const ciudad = document.getElementById("ciudad");
 const boton = document.getElementById("btnEnviar");
 const resultado = document.getElementById("resultado");
 
